@@ -1,6 +1,7 @@
 # DNS-OVER-DNS
 ##TLS OVER DNS written in python
-This is a python  app which can establish DNS conn over TLS .It Follows https://tools.ietf.org/html/rfc7858 and uses cloudfare 1.1.1.1 DNS Server
+This is a python  app which can establish DNS conn over TLS .
+It creates DNS Packet as per  https://tools.ietf.org/html/rfc7858 , creates SSL session and do dns resolution via  cloudfare 1.1.1.1 DNS Server
 
      
      
