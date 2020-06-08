@@ -6,7 +6,7 @@ from logger import logger
 
 HOST, PORT = '1.1.1.1', 853
 
-
+#
 class dnsTLS:
 
     def extractIp(self, response):
