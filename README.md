@@ -13,7 +13,7 @@ It creates DNS Packet as per  https://tools.ietf.org/html/rfc7858 , creates SSL 
      How to Test ?
            Run python client.py outside docker container 
       
-            ###1Sample Test cases #### - python test.py
+            ###3Sample Test cases #### - python test.py
 
 
 
